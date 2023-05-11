@@ -1,0 +1,22 @@
+Stockanalysis
+
+1. Current ratio
+2. Debt/Equity ratio
+3. PE Ratio
+4. PB (Price/Book)
+5. PS (Price/Sales) Ratio
+6. Debt/EBITDA
+7. EPS (Diluted)
+8. Revenue growth
+9. profit margin
+10. Asset turnover
+
+
+Inventory (2021) - 453.9
+
+To calculate
+1. Inventory turnover = cost of goods sold (cost of revenue) / average inventory
+2. Cash ratio
+3. Quick ratio
+4. D/C ratio
+

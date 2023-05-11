@@ -1,0 +1,68 @@
+All EMA Signals
+
+==========================================================================
+LONG Signals
+==========================================================================
+
+{'BTCUSDT': {'Fast Length': 15, 'Slow Length': 50, 'Normal Length': 29}, 
+'SOLUSDT': {'Fast Length': 15, 'Slow Length': 55, 'Normal Length': 24}, 
+'1INCHUSDT': {'Fast Length': 7, 'Slow Length': 70, 'Normal Length': 15}, 
+'AXSUSDT': {'Fast Length': 14, 'Slow Length': 55, 'Normal Length': 21}, 
+'ICPUSDT': {'Fast Length': 5, 'Slow Length': 56, 'Normal Length': 21}, 
+'NEARUSDT': {'Fast Length': 8, 'Slow Length': 50, 'Normal Length': 40}, 
+'IDEXUSDT': {'Fast Length': 12, 'Slow Length': 93, 'Normal Length': 15}, 
+'KP3RUSDT': {'Fast Length': 15, 'Slow Length': 65, 'Normal Length': 15}, 
+'DGBUSDT': {'Fast Length': 13, 'Slow Length': 89, 'Normal Length': 39}}
+
+
+{'BTCUSDT': 2227.6535086006024, 'SOLUSDT': 2475.5132151875205, '1INCHUSDT': 870.4232557263222, 'AXSUSDT': 790.7786582647568, 'ICPUSDT': 2051.015435096817, 'NEARUSDT': -0.08616855405307433,  'IDEXUSDT': 6746.5234975033745, 'KP3RUSDT': 0.0, 'DGBUSDT': -1.5081006549462472}
+
+
+============================================================================
+
+{'BTCUSDT': {'Fast Length': 14, 'Slow Length': 44, 'Normal Length': 34}, 
+'SOLUSDT': {'Fast Length': 5, 'Slow Length': 40, 'Normal Length': 24}, 
+'1INCHUSDT': {'Fast Length': 8, 'Slow Length': 64, 'Normal Length': 13}, 
+'AXSUSDT': {'Fast Length': 15, 'Slow Length': 54, 'Normal Length': 21}, 
+'ICPUSDT': {'Fast Length': 9, 'Slow Length': 47, 'Normal Length': 49}, 
+'NEARUSDT': {'Fast Length': 13, 'Slow Length': 45, 'Normal Length': 13}, 
+'IDEXUSDT': {'Fast Length': 12, 'Slow Length': 94, 'Normal Length': 15}, 
+'KP3RUSDT': {'Fast Length': 5, 'Slow Length': 45, 'Normal Length': 47}, 
+'DGBUSDT': {'Fast Length': 8, 'Slow Length': 48, 'Normal Length': 49}}
+
+{'BTCUSDT': 2567.6345857966407, 'SOLUSDT': 2571.236271472846, '1INCHUSDT': 1088.9124202493203, 'AXSUSDT': 857.2144824729567, 'ICPUSDT': 1657.693544650354, 'NEARUSDT': 0.0, 'IDEXUSDT': 6746.5234975033745, 'KP3RUSDT': 1220.0621065346168, 'DGBUSDT': 1637.0283570308402}
+
+
+{'BCHUSDT': {'Fast Length': 7, 'Slow Length': 42, 'Normal Length': 30}, 
+'ZENUSDT': {'Fast Length': 8, 'Slow Length': 46, 'Normal Length': 46}, 
+'OGNUSDT': {'Fast Length': 14, 'Slow Length': 65, 'Normal Length': 14}, 
+'AXSUSDT': {'Fast Length': 15, 'Slow Length': 54, 'Normal Length': 21}, 
+'BTCUSDT': {'Fast Length': 14, 'Slow Length': 45, 'Normal Length': 33}, 
+'SOLUSDT': {'Fast Length': 5, 'Slow Length': 40, 'Normal Length': 24}, 
+'FILUSDT': {'Fast Length': 15, 'Slow Length': 99, 'Normal Length': 15}}
+{'BCHUSDT': 586.9591450038424, 'ZENUSDT': 0.0, 'OGNUSDT': 0.0, 'AXSUSDT': 609.8186491396245, 'BTCUSDT': 2389.866279873264, 'SOLUSDT': 1994.0966569258126, 'FILUSDT': 0.0}
+
+==========================================================================
+SHORT
+==========================================================================
+
+{'BTCUSDT': {'Fast Length': 13, 'Slow Length': 51},
+ 'SOLUSDT': {'Fast Length': 6, 'Slow Length': 41},
+ '1INCHUSDT': {'Fast Length': 22, 'Slow Length': 55},
+ 'AXSUSDT': {'Fast Length': 8, 'Slow Length': 65},
+ 'ICPUSDT': {'Fast Length': 14, 'Slow Length': 48},
+ 'NEARUSDT': {'Fast Length': 16, 'Slow Length': 94},
+ 'IDEXUSDT': {'Fast Length': 38, 'Slow Length': 94},
+ 'KP3RUSDT': {'Fast Length': 22, 'Slow Length': 49},
+ 'DGBUSDT': {'Fast Length': 14, 'Slow Length': 80}}
+
+{'BTCUSDT': 2040.6980395054725, 'SOLUSDT': 2934.376090928785, '1INCHUSDT': 4844.9701507768605, 'AXSUSDT': 4098.095756596176, 'ICPUSDT': 4141.869071617237, 'NEARUSDT': 3773.124072677645, 'IDEXUSDT': 2020.4193381053865, 'KP3RUSDT': 4898.268292554465, 'DGBUSDT': 3650.74388327449}
+
+{'BCHUSDT': {'Fast Length': 40, 'Slow Length': 43}, 
+'ZENUSDT': {'Fast Length': 5, 'Slow Length': 49}, 
+'OGNUSDT': {'Fast Length': 12, 'Slow Length': 43}, 
+'AXSUSDT': {'Fast Length': 8, 'Slow Length': 49}, 
+'BTCUSDT': {'Fast Length': 11, 'Slow Length': 51}, 
+'SOLUSDT': {'Fast Length': 20, 'Slow Length': 72}, 
+'FILUSDT': {'Fast Length': 13, 'Slow Length': 52}}
+{'BCHUSDT': 3074.7620646488576, 'ZENUSDT': 6483.088982240588, 'OGNUSDT': 6300.694666831381, 'AXSUSDT': 4350.487620308415, 'BTCUSDT': 2361.5577132441103, 'SOLUSDT': 4313.638277697257, 'FILUSDT': 6672.108352697593}
