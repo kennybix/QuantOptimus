@@ -2,7 +2,7 @@
 
 # 3-EMA Strategy
 
-This is a simple trading bot based on the Exponential Moving Average (EMA) strategy. The bot trades on the 1-hour chart using a crossover of the *fast*, 24, and 53 period EMAs to make a buy/sell decision. The bot then uses a 15-minute chart to monitor the trade and exit when there is a crossunder of the 5 and 24 period EMAs. The bot is built using Pine Script and the TradingView platform.
+This is a simple trading bot based on the Exponential Moving Average (EMA) strategy. The bot trades on the 1-hour chart using a crossover of the *fast*, *normal*, and *slow* period EMAs to make a buy/sell decision. The bot then uses a 15-minute chart to monitor the trade and exit when there is a crossunder of the *fast* and *normal* period EMAs. The bot is built using Pine Script and the TradingView platform.
 
 ## Installation
 
