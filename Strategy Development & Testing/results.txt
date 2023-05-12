@@ -1,6 +1,7 @@
 ## All EMA Signals
-Backtesting duration: 1 March 2023 - 
+Backtesting duration: 1 March 2023 - 1 May 2023
 Starting capital: $10,000
+No leverage
 ==========================================================================
 LONG Signals
 ==========================================================================
@@ -21,8 +22,9 @@ Profit in $:
 
 ============================================================================
 
-Backtesting duration: 1 March 2023 - 
+Backtesting duration: 1 March 2023 - 6 May 2023
 Starting capital: $10,000
+No leverage
 
 {'BTCUSDT': {'Fast Length': 14, 'Slow Length': 44, 'Normal Length': 34}, 
 'SOLUSDT': {'Fast Length': 5, 'Slow Length': 40, 'Normal Length': 24}, 
@@ -38,8 +40,9 @@ Profit in $:
 {'BTCUSDT': 2567.6345857966407, 'SOLUSDT': 2571.236271472846, '1INCHUSDT': 1088.9124202493203, 'AXSUSDT': 857.2144824729567, 'ICPUSDT': 1657.693544650354, 'NEARUSDT': 0.0, 'IDEXUSDT': 6746.5234975033745, 'KP3RUSDT': 1220.0621065346168, 'DGBUSDT': 1637.0283570308402}
 
 
-Backtesting duration: 1 March 2023 - 
+Backtesting duration: 1 March 2023 - 9 May 2023
 Starting capital: $10,000
+No leverage
 
 {'BCHUSDT': {'Fast Length': 7, 'Slow Length': 42, 'Normal Length': 30}, 
 'ZENUSDT': {'Fast Length': 8, 'Slow Length': 46, 'Normal Length': 46}, 
@@ -55,8 +58,9 @@ Profit in $:
 ==========================================================================
 SHORT
 ==========================================================================
-Backtesting duration: 1 March 2023 - 
+Backtesting duration: 1 March 2023 - 6 May 2023
 Starting capital: $10,000
+No leverage
 
 {'BTCUSDT': {'Fast Length': 13, 'Slow Length': 51},
  'SOLUSDT': {'Fast Length': 6, 'Slow Length': 41},
@@ -71,8 +75,9 @@ Starting capital: $10,000
 Profit in $:
 {'BTCUSDT': 2040.6980395054725, 'SOLUSDT': 2934.376090928785, '1INCHUSDT': 4844.9701507768605, 'AXSUSDT': 4098.095756596176, 'ICPUSDT': 4141.869071617237, 'NEARUSDT': 3773.124072677645, 'IDEXUSDT': 2020.4193381053865, 'KP3RUSDT': 4898.268292554465, 'DGBUSDT': 3650.74388327449}
 
-Backtesting duration: 1 March 2023 - 
+Backtesting duration: 1 March 2023 - 9 May 2023
 Starting capital: $10,000
+No leverage
 
 {'BCHUSDT': {'Fast Length': 40, 'Slow Length': 43}, 
 'ZENUSDT': {'Fast Length': 5, 'Slow Length': 49}, 
