@@ -50,7 +50,7 @@ QuantOptimus is a comprehensive trading engine and portfolio optimization projec
 
 We encourage you to explore the features of QuantOptimus, customize it to suit your trading needs, and leverage its capabilities to make informed trading decisions. Happy trading!
 
-For further information, documentation, and updates, please visit the [QuantOptimus GitHub repository](https://github.com/yourusername/QuantOptimus).
+For further information, documentation, and updates, please visit the [QuantOptimus GitHub repository](https://github.com/kennybix/QuantOptimus).
 
 **Note:** Replace "yourusername" in the GitHub repository URL with your actual GitHub username.
 
