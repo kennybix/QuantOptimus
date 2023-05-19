@@ -69,4 +69,4 @@ The development of QuantOptimus was inspired by real-world trading experiences, 
 
 We extend our sincere thanks to all the individuals and organizations mentioned above for their valuable contributions, without which the development of QuantOptimus would not have been possible.
 
-![framework](https://github.com/kennybix/QuantOptimus/assets/7920611/f447b328-b334-4b45-a9f6-c3bf69e3fae9)
+<!-- ![framework](https://github.com/kennybix/QuantOptimus/assets/7920611/f447b328-b334-4b45-a9f6-c3bf69e3fae9) -->
