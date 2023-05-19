@@ -60,6 +60,13 @@ QuantOptimus is open-source and licensed under the MIT License. Please see the [
 
 ## Acknowledgments
 
-The development of QuantOptimus was inspired by real-world trading experiences, lessons learned, and the desire
+The development of QuantOptimus was inspired by real-world trading experiences, lessons learned, and the desire to create a powerful trading engine and portfolio optimization solution. We would like to express our gratitude to the following individuals and resources that have contributed to the development of QuantOptimus:
+
+* **Wikipedia:** We obtained the S&P 500 stock names from Wikipedia. The data from Wikipedia was used to enrich the trading analysis and enhance the accuracy of the portfolio selection process. We appreciate the efforts of the contributors who maintain the S&P 500 stock information on Wikipedia.
+* **OpenAI:** We would like to thank OpenAI for their contribution to the field of natural language processing and machine learning. The underlying technology that powers ChatGPT, the language model used to generate this README, is based on OpenAI's GPT-3.5 architecture. Their research and advancements have greatly influenced the development of QuantOptimus.
+* **Python Community:** The vibrant Python community has been instrumental in providing a wide range of libraries, frameworks, and resources that have facilitated the development of QuantOptimus. We are grateful for the open-source contributions, valuable discussions, and support from the Python community.
+* **Financial Data Providers:** We acknowledge the financial data providers who offer accessible and reliable financial data, which forms the basis of the analysis and insights provided by QuantOptimus. The availability of such data sources enables us to build robust trading strategies and optimize portfolio allocation.
+
+We extend our sincere thanks to all the individuals and organizations mentioned above for their valuable contributions, without which the development of QuantOptimus would not have been possible.
 
 ![framework](https://github.com/kennybix/QuantOptimus/assets/7920611/f447b328-b334-4b45-a9f6-c3bf69e3fae9)
